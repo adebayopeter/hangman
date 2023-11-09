@@ -25,13 +25,12 @@ Steps:
 ## Usage
 
 To play the game:
-1. Run the script using `python3 hangman.py` in your terminal (for Linux/macOS) or `python hangman.py` (for Windows).
+1. Run the script using `python3 milestone_3.py` in your terminal (for Linux/macOS) or `python milestone_3.py` (for Windows).
 2. Follow the on-screen prompts to guess letters.
 
 ## File Structure
 
-- `hangman.py` - The main game script.
-- `words.txt` - A file containing possible words for the game.
+- `milestone_3.py` - The main game script.
 - `README.md` - The file you are currently reading.
 
 ## Contributing
